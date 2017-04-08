@@ -158,7 +158,7 @@
  prethoryn_kills_others:0 "§G普雷索林被其他势力消灭§!"
  prethoryn_victims:0 "§R船只被普雷索林消灭§!"
 
- refugees.1.name:0 "[Root.GetSpeciesName] Refugees Arrive"
- refugees.1.desc.1:0 "A flotilla of civilian transports carrying [Root.GetSpeciesName] refugees from the [RefugeeEscapedFrom.GetName] have arrived in our space. They have been allowed to settle on §H[Root.Planet.GetName]§!.\n\nThese unfortunate outcasts were forcefully expelled from their homes by the [RefugeeEscapedFrom.GetSpeciesName] authorities. They have been travelling from system to system since then, in a desperate attempt to find new homes before the last of their dwindling supplies were used up."
- refugees.1.desc.2:0 "A battered fleet of small civilian vessels carrying [Root.GetSpeciesNamePlural] fleeing from the [RefugeeEscapedFrom.GetName] have arrived in our space. After we supplied them with food and provided medical attention to their wounded, the refugees were allowed to settle on §H[Root.Planet.GetName]§!.\n\nThese ragged and frightened refugees are survivors from the extermination program being carried out by the [RefugeeEscapedFrom.GetSpeciesName] authorities against their species. They only made it out thanks to the efforts of a hastily organized underground railroad and a few sympathetic merchant skippers."
- refugees.1.a:0 "They are welcome here."
+ refugees.1.name:0 "[Root.GetSpeciesName]难民到达"
+ refugees.1.desc.1:0 "一小支搭载着来自[RefugeeEscapedFrom.GetName]的[Root.GetSpeciesName]难民运输船到达了我们的疆域。他们被允许定居在§H[Root.Planet.GetName]§!。\n\n这些不幸的被抛弃者被当局强行从他们的家园[RefugeeEscapedFrom.GetSpeciesName]中驱逐。他们在群星之中颠沛流离，他们绝望的尝试在最后一点补给用尽前找到新的安居之所。"
+ refugees.1.desc.2:0 "一小支由破旧的小船组成的舰队搭载着来自[RefugeeEscapedFrom.GetName]的[Root.GetSpeciesName]难民到达了我们的疆域。我们为难民提供了食物和医疗照顾，同时他们被允许定居在§H[Root.Planet.GetName]§！.\n\n这些衣着褴褛和惊恐不安的难民是从[RefugeeEscapedFrom.GetSpeciesName]当局针对他们种族展开的清洗计划中的幸存者。他们能够幸存还需要感谢一个匆忙组建起来的地下解救组织和一些富有同情心的商船船长。"
+ refugees.1.a:0 "他们在这里受到了欢迎。"
